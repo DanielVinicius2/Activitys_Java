@@ -1,5 +1,5 @@
-# Activitys_Java
-Repository dedicated to post  java activitys !
+# EXPLICANDO FOLDERS:
+
 ## Trabalho_Heloisa:
 ### Objetivo:
 ##### Refatorar um código eliminando repetições e aplicando boas 
