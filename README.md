@@ -12,7 +12,8 @@
 #  
 
 ### Resultado:
-### **Arquivo main:Arquivo onde esta "rodando" a aplicação.**
+### **Arquivo main:
+#### *Arquivo onde esta "rodando" a aplicação.*
 
 ![image](https://github.com/user-attachments/assets/9da040d6-d90d-459a-841e-a72b16ef27f4)
 
